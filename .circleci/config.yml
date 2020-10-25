@@ -14,4 +14,4 @@ workflows:
       - welcome/run
   copy:
     jobs:
-      - gloud/auth
+      - gcloud/auth
