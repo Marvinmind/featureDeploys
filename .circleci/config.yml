@@ -12,6 +12,11 @@ workflows:
     # Run the welcome/run job in its own containe
     jobs:
       - welcome/run
-  copy:
-    jobs:
+      - auth
+
+jobs:
+  auth:
+    docker:
+      - image: circleci/node:13
+    steps:
       - gcloud/auth
