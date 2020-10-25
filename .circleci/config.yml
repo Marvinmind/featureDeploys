@@ -19,7 +19,7 @@ jobs:
     docker:
       - image: google/cloud-sdk:latest
     steps:
-      - run: ls
+      - run: echo ${ls}
       - gcloud/auth
       - gcloud/gsutil:
           cmd: "cp *.txt gs://apples-d8991.appspot.com/"
