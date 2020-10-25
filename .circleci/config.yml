@@ -20,5 +20,5 @@ jobs:
       - image: google/cloud-sdk:latest
     steps:
       - gcloud/auth
-      - gcloud/gsutil
-        cmd: 'cp ./hello.txt gs://apples-d8991.appspot.com/'
+      - gcloud/gsutil:
+          cmd: "cp ./hello.txt gs://apples-d8991.appspot.com/"
