@@ -19,8 +19,6 @@ jobs:
     docker:
       - image: google/cloud-sdk:latest
     steps:
-      - attach_workspace:
-          at: .
       - gcloud/auth
       - gcloud/gsutil:
-          cmd: "cp ./hello.txt gs://apples-d8991.appspot.com/"
+          cmd: "cp hello.txt gs://apples-d8991.appspot.com/"
