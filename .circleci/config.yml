@@ -17,6 +17,6 @@ workflows:
 jobs:
   auth:
     docker:
-      - image: circleci/node:13
+      - image: google/cloud-sdk:latest
     steps:
       - gcloud/auth
