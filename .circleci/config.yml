@@ -22,4 +22,4 @@ jobs:
       - checkout
       - gcloud/auth
       - gcloud/gsutil:
-          cmd: "cp hello.txt gs://apples-d8991.appspot.com/"
+          cmd: "cp hello.txt gs://apples-d8991.appspot.com/1/"
