@@ -21,4 +21,4 @@ jobs:
       - checkout
       - gcloud/auth
       - gcloud/gsutil:
-          cmd: "cp hello.txt gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}/"
+          cmd: "cp src/* gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}/"
