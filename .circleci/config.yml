@@ -17,6 +17,6 @@ workflows:
 jobs:
   auth:
     docker:
-      - image: google/cloud-sdk:latest
+      - image: circleci/node:13
     steps:
       - run: ls -la
