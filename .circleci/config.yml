@@ -17,7 +17,9 @@ workflows:
 jobs:
   auth:
     docker:
-      - image: circleci/node:13
+      - image: google/cloud-sdk:latest
     steps:
       - checkout
-      - run: ls -la
+      - gcloud/auth
+      - gcloud/gsutil:
+          cmd: "cp hello.txt gs://apples-d8991.appspot.com/"
