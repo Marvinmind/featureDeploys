@@ -11,7 +11,6 @@ workflows:
   welcome:
     # Run the welcome/run job in its own contai
     jobs:
-      - welcome/run
       - auth
 
 jobs:
@@ -22,4 +21,4 @@ jobs:
       - checkout
       - gcloud/auth
       - gcloud/gsutil:
-          cmd: "cp hello.txt gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
+          cmd: "cp hello.txt gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}/"
