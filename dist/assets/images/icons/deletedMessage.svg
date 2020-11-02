@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title>icon/systemMessages/deletedMessage</title>
+  <desc>Created with Sketch.</desc>
+  <g id="icon/systemMessages/deletedMessage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path
+      d="M4,5 L4,12 L9,12 L9,5 L4,5 Z M3,4 L10,4 L10,12 C10,12.5522847 9.55228475,13 9,13 L4,13 C3.44771525,13 3,12.5522847 3,12 L3,4 Z M5,6 L6,6 L6,10 L5,10 L5,6 Z M7,6 L8,6 L8,10 L7,10 L7,6 Z M3,2 C3,1.44771525 3.44771525,1 4,1 L9,1 C9.55228475,1 10,1.44771525 10,2 L11,2 L11,3 L2,3 L2,2 L3,2 Z"
+      id="Combined-Shape" fill="#858585" fill-rule="nonzero"></path>
+  </g>
+</svg>

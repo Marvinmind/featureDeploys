@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="webapp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Chat-contactdetails_addContact" transform="translate(-1404.000000, -133.000000)" fill="#FFFFFF">
+            <path d="M1405,149 C1405,150.1 1405.9,151 1407,151 L1415,151 C1416.1,151 1417,150.1 1417,149 L1417,137 L1405,137 L1405,149 L1405,149 Z M1418,134 L1414.5,134 L1413.5,133 L1408.5,133 L1407.5,134 L1404,134 L1404,136 L1418,136 L1418,134 L1418,134 Z" id="delete"></path>
+        </g>
+    </g>
+</svg>

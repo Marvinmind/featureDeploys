@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round"
+		 stroke-linejoin="round">
+		<g id="dashboard-01-01" transform="translate(-29.000000, -237.000000)" stroke="#34180E" stroke-width="2">
+			<g id="Group-4" transform="translate(10.000000, 100.000000)">
+				<g id="Group-5"
+					 transform="translate(28.000000, 157.500000) rotate(-360.000000) translate(-28.000000, -157.500000) translate(4.500000, 138.000000)">
+					<g id="calendar" transform="translate(16.000000, -0.000000)">
+						<rect class="stroke" id="Rectangle" x="0" y="2" width="18" height="18" rx="2"></rect>
+						<line class="stroke" x1="13" y1="0" x2="13" y2="4" id="Path"></line>
+						<line class="stroke" x1="5" y1="0" x2="5" y2="4" id="Path"></line>
+						<line class="stroke" x1="0" y1="8" x2="18" y2="8" id="Path"></line>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

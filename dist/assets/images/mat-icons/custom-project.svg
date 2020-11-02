@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="dashboard-01-01" transform="translate(-31.000000, -102.000000)" fill="#34180E" fill-rule="nonzero"
+			 class="fill">
+			<g id="Group-4" transform="translate(10.000000, 100.000000)">
+				<g id="Group-7"
+					 transform="translate(29.500000, 19.500000) rotate(-360.000000) translate(-29.500000, -19.500000) translate(8.000000, 0.000000)">
+					<g id="icons/bar/house/big" transform="translate(10.000000, -0.000000)">
+						<path
+							d="M3.82901889,7.4341971 L10.8290189,2.37864154 C11.5280494,1.87378615 12.4719506,1.87378615 13.1709811,2.37864154 L20.1709811,7.4341971 C20.691606,7.81020395 21,8.41334732 21,9.05555556 L21,19.032933 C21,20.1375025 20.1045695,21.032933 19,21.032933 L5,21.032933 C3.8954305,21.032933 3,20.1375025 3,19.032933 L3,9.05555556 C3,8.41334732 3.30839402,7.81020395 3.82901889,7.4341971 Z M5,9.05555556 L5,19.032933 L19,19.032933 L19,9.05555556 L12,4 L5,9.05555556 Z"
+							id="Icon-color"></path>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

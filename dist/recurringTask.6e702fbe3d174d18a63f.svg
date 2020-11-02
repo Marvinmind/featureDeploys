@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title>recurringTask</title>
+  <desc>Created with Sketch.</desc>
+  <g id="Sally---Assigned-Todo-Tasks-in-Bottom-tabbar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="(202)Task-Overview/-detail" transform="translate(-13.000000, -429.000000)" fill="#ffffff">
+      <g id="Group" transform="translate(13.000000, 429.000000)">
+        <g id="Icon/Recurring" transform="translate(1.000000, 3.000000)">
+          <path
+            d="M12,4.40536496e-13 C7.03,4.40536496e-13 3,3.98571429 3,8.9010989 L5.32907052e-15,8.9010989 L3.89,12.7483516 L3.96,12.8863187 L8,8.9010989 L5,8.9010989 C5,5.07362637 8.13,1.97802198 12,1.97802198 C15.87,1.97802198 19,5.07362637 19,8.9010989 C19,12.7285714 15.87,15.8236813 12,15.8236813 C10.07,15.8236813 8.32,15.0428571 7.06,13.7868132 L5.64,15.1912088 C7.27,16.8028022 9.51,17.8017033 12,17.8017033 C16.97,17.8017033 21,13.8164835 21,8.9010989 C21,3.98571429 16.97,4.40536496e-13 12,4.40536496e-13 L12,4.40536496e-13 Z"
+            id="Path"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

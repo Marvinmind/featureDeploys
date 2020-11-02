@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+  <title>folderIcon</title>
+  <desc>Created with Sketch.</desc>
+  <g id="Website-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="DesktopFileDrive--movingItem" transform="translate(-1107.000000, -204.000000)" fill="#9E9E9E">
+      <g id="folder1" transform="translate(1091.000000, 188.000000)">
+        <path
+          d="M23.0893898,17.9508197 L35.1304348,17.9508197 C35.5919842,17.9508197 36,18.3234488 36,18.7868852 L36,32.1639344 C36,32.6244589 35.5914295,33 35.1304348,33 L16.8695652,33 C16.4080158,33 16,32.6273708 16,32.1639344 L16,18.7868852 L16,16.8360656 C16,16.3836544 16.4017732,16 16.8695652,16 L21.0792572,16 C21.3156291,16 21.6369077,16.1556737 21.7846967,16.3343446 C21.7846967,16.3343446 22.4591141,17.138048 23.0893898,17.9508197 Z"
+          id="folderIcon"></path>
+      </g>
+    </g>
+  </g>
+</svg>

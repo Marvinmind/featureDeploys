@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="40px" viewBox="0 0 50 40" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>folder-24px (1)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-filessection-multiselect-03" transform="translate(-1510.000000, -259.000000)">
+            <g id="folder-24px-(1)" transform="translate(1505.000000, 249.000000)">
+                <path d="M25,10 L10,10 C7.25,10 5.025,12.25 5.025,15 L5,45 C5,47.75 7.25,50 10,50 L50,50 C52.75,50 55,47.75 55,45 L55,20 C55,17.25 52.75,15 50,15 L30,15 L25,10 Z" id="Path" fill="#34180E" fill-rule="nonzero"></path>
+                <polygon id="Path" points="0 0 60 0 60 60 0 60"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

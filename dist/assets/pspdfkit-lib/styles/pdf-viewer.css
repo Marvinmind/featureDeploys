@@ -1,0 +1,15 @@
+:root {
+	--color-blue900: #FF5C20;
+	--color-blue800: #FF5C20;
+	--color-blue700: #FF5C20;
+	--color-blue600: #FF5C20;
+	--color-blue400: #FF5C20;
+	--color-blue100: #FF5C20;
+}
+
+
+.pdf-viewer__button {
+	color: #FF5C20;
+	font-weight: bold;
+	font-size: 14px;
+}

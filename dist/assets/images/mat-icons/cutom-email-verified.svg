@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="registration-screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="emailverified-mobile" transform="translate(-145.000000, -224.000000)" stroke-width="8">
+            <g id="check-circle-(1)" transform="translate(149.000000, 228.000000)">
+                <path d="M76.1904762,35.4 L76.1904762,38.9047619 C76.1808298,55.7759461 65.0754056,70.6312875 48.8965806,75.4148608 C32.7177557,80.1984341 15.3195945,73.7707129 6.13697175,59.6173956 C-3.04565096,45.4640783 -1.82528211,26.9567199 9.13628265,14.1317034 C20.0978474,1.3066869 38.1893815,-2.78085606 53.6,4.08571429" id="Path" stroke="#34180E"></path>
+                <polyline id="Path" stroke="#FF5C20" points="76.1904762 8.42857143 38.0952381 46.5619048 26.6666667 35.1333333"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

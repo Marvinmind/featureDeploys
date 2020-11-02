@@ -1,0 +1,12 @@
+<svg width="69" height="61" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path
+      d="M41.383 1l18.44 18.292v38.145a2.4 2.4 0 0 1-2.4 2.4H12.399a2.4 2.4 0 0 1-2.399-2.4V3.399A2.4 2.4 0 0 1 12.4 1h28.983z"
+      fill="#9E9E9E"/>
+    <path d="M41.383 1l18.44 18.292v.555H43.373a2.4 2.4 0 0 1-2.399-2.4V1h.408z" fill="#D4D4D4"/>
+    <text font-family="Helvetica-Bold, Helvetica" font-size="14.397" font-weight="bold" fill="#666"
+          transform="translate(10 1)">
+      <tspan x="10.858" y="38.124">PDF</tspan>
+    </text>
+  </g>
+</svg>

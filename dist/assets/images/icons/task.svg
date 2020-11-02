@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title>icon/systemMessages/task</title>
+  <desc>Created with Sketch.</desc>
+  <g id="icon/systemMessages/task" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path
+      d="M10,1.92307692 L10,3 L3,3 L3,1.92307692 L2.1,1.92307692 L2.1,12.0769231 L10.9,12.0769231 L10.9,1.92307692 L10,1.92307692 Z M10,1 L10.9,1 C11.5075132,1 12,1.41327562 12,1.92307692 L12,12.0769231 C12,12.5867244 11.5075132,13 10.9,13 L2.1,13 C1.49248678,13 1,12.5867244 1,12.0769231 L1,1.92307692 C1,1.41327562 1.49248678,1 2.1,1 L3,1 C3,0.44771525 3.52233446,1.01453063e-16 4.16666667,0 L8.83333333,0 C9.47766554,-1.01453063e-16 10,0.44771525 10,1 Z M5,5 L9,5 L9,6 L5,6 L5,5 Z M5,7 L7,7 L7,8 L5,8 L5,7 Z M5,9 L8,9 L8,10 L5,10 L5,9 Z M4,2 L9,2 L9,1 L4,1 L4,2 Z M3,5 L4,5 L4,6 L3,6 L3,5 Z M3,7 L4,7 L4,8 L3,8 L3,7 Z M3,9 L4,9 L4,10 L3,10 L3,9 Z"
+      id="Combined-Shape" fill="#858585"></path>
+  </g>
+</svg>
