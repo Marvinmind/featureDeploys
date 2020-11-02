@@ -22,4 +22,4 @@ jobs:
       - checkout
       - gcloud/auth
       - gcloud/gsutil:
-          cmd: "cp dist/* gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
+          cmd: "cp -r dist/* gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
