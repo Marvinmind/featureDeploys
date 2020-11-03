@@ -24,7 +24,7 @@ jobs:
           service_key: "${FEATURE_DEPLOY_ACCOUNT_KEY}"
           project_id: '${FEATURE_DEPLOY_PROJECT}'
           compute_zone: 'europe-west1'
-     # - gcloud/gsutil:
-     #     cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
-     # - gcloud/gsutil:
-     #     cmd: "-m cp -r dist/* gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
+      - gcloud/gsutil:
+          cmd: "-m rm -r gs://${FEATURE_DEPLOY_PROJECT}.appspot.com/${CIRCLE_BRANCH}"
+      - gcloud/gsutil:
+          cmd: "-m cp -r dist/* gs://${FEATURE_DEPLOY_PROJECT}.appspot.com/${CIRCLE_BRANCH}"
