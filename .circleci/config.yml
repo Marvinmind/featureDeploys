@@ -21,7 +21,7 @@ jobs:
     steps:
       - checkout
       - gcloud/auth:
-          service_key: "x"
+          service_key: "${FEATURE_DEPLOY_ACCOUNT_KEY}"
      # - gcloud/gsutil:
      #     cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
      # - gcloud/gsutil:
