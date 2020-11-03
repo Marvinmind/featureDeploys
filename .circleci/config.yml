@@ -23,7 +23,7 @@ jobs:
       - gcloud/auth:
         parameters:
           project_id: "stripe-cfc49"
-          service_key: "x"
+        service_key: "x"
       - gcloud/gsutil:
           cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
       - gcloud/gsutil:
