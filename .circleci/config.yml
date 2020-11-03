@@ -20,7 +20,9 @@ jobs:
       - image: google/cloud-sdk:latest
     steps:
       - checkout
-      - gcloud/auth
+      - gcloud/auth:
+        parameters:
+          project_id: "stripe-cfc49"
       - gcloud/gsutil:
           cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
       - gcloud/gsutil:
