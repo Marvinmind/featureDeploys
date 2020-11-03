@@ -22,7 +22,7 @@ jobs:
       - checkout
       - gcloud/auth:
           service_key: "${FEATURE_DEPLOY_ACCOUNT_KEY}"
-          project_id: "${FEATURE_DEPLOY_PROJECT}"
+          project_id: '${FEATURE_DEPLOY_PROJECT}''
      # - gcloud/gsutil:
      #     cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
      # - gcloud/gsutil:
