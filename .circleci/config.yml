@@ -18,15 +18,11 @@ jobs:
   auth:
     docker:
       - image: google/cloud-sdk:latest
-    parameters:
-      service_key:
-        type: string
-        default: "x"
     steps:
       - checkout
       - gcloud/auth:
-        service_key: << parameters.service_key >>
-      #- gcloud/gsutil:
-      #    cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
-      #- gcloud/gsutil:
-      #    cmd: "-m cp -r dist/* gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
+          service_key: "x"
+     # - gcloud/gsutil:
+     #     cmd: "-m rm -r gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
+     # - gcloud/gsutil:
+     #     cmd: "-m cp -r dist/* gs://apples-d8991.appspot.com/${CIRCLE_BRANCH}"
