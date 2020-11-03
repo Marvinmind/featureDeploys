@@ -25,6 +25,6 @@ jobs:
           project_id: '${FEATURE_DEPLOY_PROJECT}'
           compute_zone: 'europe-west1'
       - gcloud/gsutil:
-          cmd: "-m rm -r gs://${FEATURE_DEPLOY_BUCKET}.appspot.com/${CIRCLE_BRANCH}"
+          cmd: "-m rm -r gs://${FEATURE_DEPLOY_BUCKET}/${CIRCLE_BRANCH}"
       - gcloud/gsutil:
-          cmd: "-m cp -r dist/* gs://${FEATURE_DEPLOY_BUCKET}.appspot.com/${CIRCLE_BRANCH}"
+          cmd: "-m cp -r dist/* gs://${FEATURE_DEPLOY_BUCKET}/${CIRCLE_BRANCH}"
